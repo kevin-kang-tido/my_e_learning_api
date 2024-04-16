@@ -22,4 +22,5 @@ public class Authority {
 
     @ManyToMany(mappedBy = "authorities")
     private List<Role> role;
+
 }

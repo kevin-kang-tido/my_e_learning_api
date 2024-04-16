@@ -26,7 +26,7 @@ public class User {
     private String address2;
 
 //    private City city;
-//
+
 //    private Country country;
 
     private LocalDate dob;
